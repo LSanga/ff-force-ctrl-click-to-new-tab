@@ -1,4 +1,4 @@
-> Note: this extension is being submitted to Firefox; when published it will be available at: https://addons.mozilla.org/it/firefox/addon/force-ctrl-click-to-new-tab/
+> This extension can be installed from: https://addons.mozilla.org/it/firefox/addon/force-ctrl-click-to-new-tab/
 
 # Force Ctrl+Click to New Tab
 
